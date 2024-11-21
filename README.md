@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Loyola ICAM College of Engineering and Technology. I<br>🌱I am actively expanding my knowledge base by exploring diverse areas of interest within the field and beyond.
+🔭I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Loyola ICAM College of Engineering and Technology. <br>🌱I am actively expanding my knowledge base by exploring diverse areas of interest within the field and beyond.
 
 
 ## 🌐 Socials:
